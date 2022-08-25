@@ -1,9 +1,12 @@
-<<<<<<< HEAD
+
 echo
 !/bin/bash
 echo "ALX School is so cool!"
 
-=======
+
 #!/bin/bash 
 echo "ALX School"
->>>>>>> update_script
+
+
+trying to merge these file with another
+
